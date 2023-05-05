@@ -1,4 +1,5 @@
 neosdb:///29f345bd0f08c36d734df35398b55a179579994472208bbbb276efb7c25866ca.7zbson,EastonG,
-neosdb:///1cf6e5920606088143e150441b7f0c9c3afb76ed7bf75454589a2e70a28dc7bb.7zbson,Multitool,
-anything3,bop3,
-anything4,bop4,
+neosdb:///1cf6e5920606088143e150441b7f0c9c3afb76ed7bf75454589a2e70a28dc7bb.7zbson,Multi,
+neosdb:///b61b0812ae81ffebdd42d00e3d47d4d87e1c56daaf14d2091c8f2e99cb153e70.7zbson,NGlasses,
+neosdb:///92bc8a66a76a00f984d9f7c60693b4e7e1dd20ff9ca6bf7df698b647109e99c2.7zbson,HGlasses,
+l,l,
